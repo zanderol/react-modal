@@ -1,1 +1,1 @@
-Simple modal built with ReactJS
+Simple modal window built with ReactJS
