@@ -26,7 +26,10 @@ function App() {
         ✨ Open modal window
       </button>
       <Modal open={open} setOpen={setOpen}>
-        <img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" />
+        <img
+          src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+          alt="fancy gif"
+        />
         <h3>This is my modal window</h3>
       </Modal>
 
